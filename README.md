@@ -1,7 +1,6 @@
 <div align="center">
   
 <h1 align="center"> BE12_OZ_ILU</h1>
-<br>
 <h3 align="center"> Objective: To become a Full Stack Developer </h3>
 <br>
 
