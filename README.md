@@ -2,7 +2,7 @@
   
 <h1 align="center"> BE12_OZ_ILU</h1>
 <br>
-<h3 align="center"> 풀스텍 가즈아 !!!! </h3>
+<h3 align="center"> Objective: To become a Full Stack Developer </h3>
 <br>
 
 ![header](https://capsule-render.vercel.app/api?type=blur&color=cc99ff&text=Pleased&nbsp;to&nbsp;meet&nbsp;U&height=400&fontSize=50&fontColor=000000)
