@@ -2,7 +2,7 @@
   
 <h1 align="center"> BE12_OZ_ILU</h1>
 <br>
-<h3 align="center"> "사람들은 현실에 불만을 갖고 어딘가 다른 곳으로 가면 좋을 것이라고 막연히 생각한다. <br> 하지만 내가 깨달은 바로는 지금 여기, 바로 이 순간이 최고의 환경이다. <br> 조훈현 九단 </h3>
+<h3 align="center"> 풀스텍 가즈아 !!!! </h3>
 <br>
 
 ![header](https://capsule-render.vercel.app/api?type=blur&color=cc99ff&text=Pleased&nbsp;to&nbsp;meet&nbsp;U&height=400&fontSize=50&fontColor=000000)
