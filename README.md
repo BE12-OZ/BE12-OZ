@@ -2,17 +2,18 @@
   
 <h1 align="center"> BE12_OZ_ILU</h1>
 <h3 align="center"> Objective: To become a Full Stack Developer
-
+<br>
+<br>
 운영체제, 인공지능(AI)은 시간이 지날수록 인간이 이길 수 없다. 
-
+<br>
 사람의 뇌는 시간이 지나면 기억의 용량 때문에 싫어도 잊어버리게 된다. 
-
+<br>
 시대를 앞서가는 것을 못하겠다면 따라가려고 해보자.
-
+<br>
 고여서 썩는다는 건 고집 때문이다.
-
+<br>
 기본을 버리지 않되 현명하게 사용하자.
-
+<br>
 늦었다고 생각이 들었을 때는 이미 늦은거다.
 </h3>
 <br>
