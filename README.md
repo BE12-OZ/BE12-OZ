@@ -4,7 +4,7 @@
 <h3 align="center"> Objective: To become a Full Stack Developer
 <br>
 <br>
-운영체제, 인공지능(AI)은 시간이 지날수록 인간이 이길 수 없다. 
+인공지능(AI)은 시간이 지날수록 인간이 이길 수 없다. 
 <br>
 <br>
 사람의 뇌는 시간이 지나면 기억의 용량 때문에 싫어도 잊어버리게 된다. 
