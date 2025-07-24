@@ -60,6 +60,8 @@
 ---
 
 **#디자이너에서개발로 #풀스택개발자 #코딩여정 #개발자성장기 #문제해결사 #새로운시작 #벨로그 #개발자프로필 #GitHubREADME**
+<br>
+<br>
 <h1 align="center"> My Status </h1>
 <br>
 <br>
