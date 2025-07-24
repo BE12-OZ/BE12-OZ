@@ -2,6 +2,7 @@
   
 <h1 align="center"> BE12_OZ_ILU</h1>
 <h3 align="center"> Objective: To become a Full Stack Developer
+<h3 align="center"> (https://velog.io/@i_lu/posts)
 <br>
 <br>
 인공지능(AI)은 시간이 지날수록 
