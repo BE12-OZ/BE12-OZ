@@ -2,7 +2,6 @@
   
 <h1 align="center"> BE12_OZ_ILU</h1>
 <h3 align="center"> Objective: To become a Full Stack Developer
-<h3 align="center"> (https://velog.io/@i_lu/about)
 <br>
 <br>
 ## ✨ [I_LU] | 디자이너에서 풀스택 개발자로 ✨
