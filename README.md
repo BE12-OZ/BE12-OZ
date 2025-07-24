@@ -4,7 +4,7 @@
 <h3 align="center"> Objective: To become a Full Stack Developer
 <br>
 <br>
-## ✨ [I_LU] | 디자이너에서 풀스택 개발자로 ✨
+✨ [I_LU] | 디자이너에서 풀스택 개발자로 ✨
 
 ---
 
