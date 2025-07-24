@@ -63,8 +63,11 @@
 
 <br>
 <br>
+<br>
+
 ![header](https://capsule-render.vercel.app/api?type=blur&color=cc99ff&text=Pleased&nbsp;to&nbsp;meet&nbsp;U&height=400&fontSize=50&fontColor=000000)
 ![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=100&color=cc99ff)
+
 <br>
 <br>
 <br>
