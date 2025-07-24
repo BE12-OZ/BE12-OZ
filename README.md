@@ -61,24 +61,6 @@
 
 **#디자이너에서개발로 #풀스택개발자 #코딩여정 #개발자성장기 #문제해결사 #새로운시작 #벨로그 #개발자프로필 #GitHubREADME**
 
----
-
-**GitHub README.md 적용 가이드:**
-
-1.  **이 글을 복사합니다.**
-2.  GitHub에 `.github` 폴더를 만들고, 그 안에 `profile.md` 파일을 생성한 후 내용을 붙여넣습니다.
-3.  **가장 중요한 것은, 자신의 GitHub 계정 이름과 동일한 이름의 저장소 (예: `your-github-username/your-github-username`)를 만들고, 그 저장소의 `README.md` 파일에 이 내용을 붙여넣는 것입니다.** 이렇게 해야 GitHub 프로필 상단에 멋지게 표시됩니다!
-4.  `[당신의 이름]`, `[당신의 GitHub 프로필 URL]`, `[당신의 LinkedIn 프로필 URL]`, `[당신의 블로그/포트폴리오 URL]`, `[당신의 이메일 주소]` 부분은 **반드시 본인의 정보로 수정**해주세요.
-5.  Markdown 문법 (굵게, 기울임, 목록, 링크)은 GitHub에서 자동으로 예쁘게 렌더링해줍니다.
-6.  **해시태그**는 GitHub README에 직접적으로 표시되진 않지만, 검색이나 분류에 도움이 될 수 있습니다. (선택 사항)
-
-**추가 팁:**
-
-*   **프로필 사진:** GitHub 계정에 자신의 멋진 사진을 꼭 등록하세요!
-*   **고정된 저장소 (Pinned Repositories):** 자신이 자랑하고 싶은 프로젝트들을 GitHub 프로필 상단에 고정해두면, 이 자기소개 글과 함께 멋진 시너지를 낼 수 있습니다.
-*   **GitHub Stats Card:** `github-readme-stats` 와 같은 도구를 활용하여 자신의 GitHub 활동 통계 (커밋 수, PR 수, 주로 쓰는 언어 등)를 멋진 이미지 카드로 만들어 README에 추가하면 더욱 풍성하고 개성 있는 프로필을 만들 수 있습니다. (예: `![GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)`)
-
-이 소개글이 여러분의 개발자로서의 멋진 시작을 알리는 데 도움이 되기를 바랍니다! 😊
 <br>
 <br>
 ![header](https://capsule-render.vercel.app/api?type=blur&color=cc99ff&text=Pleased&nbsp;to&nbsp;meet&nbsp;U&height=400&fontSize=50&fontColor=000000)
