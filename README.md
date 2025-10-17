@@ -12,12 +12,6 @@
 <br>
 <br>
 
-<h1 align="Left"> Counting </h1>
-
-[![Counting](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FBE12-OZ?color=blue&label=Counting&size=large)](https://myhits.vercel.app)
-
-</div>
-
 
 <div align="center">
   
