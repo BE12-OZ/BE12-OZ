@@ -1,3 +1,5 @@
+<div align="center">
+
 <br>
 <br>
 <br>
@@ -12,8 +14,6 @@
 <br>
 <br>
 
-
-<div align="center">
   
 <h1 align="center"> BE12_OZ_ILU</h1>
 <h3 align="center"> Objective: To become a Full Stack Developer
