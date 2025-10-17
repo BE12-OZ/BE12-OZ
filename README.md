@@ -1,3 +1,17 @@
+<br>
+<br>
+<br>
+<br>
+
+![header](https://capsule-render.vercel.app/api?type=blur&color=cc99ff&text=Pleased&nbsp;to&nbsp;meet&nbsp;U&height=400&fontSize=50&fontColor=000000)
+![footer](https://capsule-render.vercel.app/api?section=footer&type=waving&height=100&color=cc99ff)
+
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <h1 align="Left"> Counting </h1>
 
 [![Counting](https://myhits.vercel.app/api/hit/https%3A%2F%2Fgithub.com%2FBE12-OZ?color=blue&label=Counting&size=large)](https://myhits.vercel.app)
