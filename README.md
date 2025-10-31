@@ -84,7 +84,7 @@
 <br>
 <br>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=BE12-OZ&theme=margin-w=15&row=2&column=8")](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br>
 <br>
