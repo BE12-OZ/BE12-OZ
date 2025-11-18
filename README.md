@@ -21,9 +21,9 @@
 
 ### 🔗 **연락처:**
 
-*   **GitHub:** [https://github.com/BE12-OZ]
-*   **블로그/포트폴리오:** [(https://velog.io/@i_lu/about)]
-*   **이메일:** [dhwmzheld6470@gmail.com]
+    **GitHub:** [https://github.com/BE12-OZ]
+    **블로그/포트폴리오:** [(https://velog.io/@i_lu/about)]
+    **이메일:** [dhwmzheld6470@gmail.com]
 
 ---
 
