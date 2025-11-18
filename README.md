@@ -18,17 +18,17 @@
 <h1 align="center"> BE12_OZ_ILU</h1>
 <h3 align="center"> Objective: To become a Full Stack Developer
 
+<br>
+<br>
+<br>
 
 ### 🔗 **연락처:**
 
-*    **GitHub:** [https://github.com/BE12-OZ]
-*    **블로그/포트폴리오:** [(https://velog.io/@i_lu/about)]
+*    **Velog:** [https://velog.io/@i_lu/about]
+*    **포트폴리오:** [portfolio-eta-seven-zxy2g09jsi.vercel.app]
 *    **이메일:** [dhwmzheld6470@gmail.com]
 
----
-
-**#디자이너에서개발로 #풀스택개발자 #코딩여정 #개발자성장기 #문제해결사 #새로운시작 #벨로그 #개발자프로필 #GitHubREADME**
-
+<br>
 <br>
 <br>
 
